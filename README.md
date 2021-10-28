@@ -6,9 +6,15 @@ Abstract
 The concept of this assignment is to develop a Python-language code to simulate a robot circulating in a plant, in the meantime it has to pick up the silver tokens and put it behind it and if it encounters the golden tokens it has to avoid touching it and go back or change direction. According to this code, you have to understand how to use the medotics R. see (), R. grab (), R. release () and how to use find_token () to find out what kind of token is in front of robot.
 
 Introduction
-----------------------
-This python simulator was already programmed by *Harry Cutts
+================================
+This python simulator was already programmed by _Harry Cutts_ in 2017, here is reported in a sort of assignment for Reseach Track 1 course of the first year Robotic Engineering. Assignment is modified from the original model by prof. _Carmine Tommaso Recchiuto_ is compiled in python brought to linux in 3 formats by exercises. To compile assignment you only need to modify exercises 2 and 3 to get desired results.
+
+Materials and Methods
+=========================
+Before compiling program you have to install it and running on the basic program explained in the part _Installing and running_ ,in case after installing there have been any problems before programming you can refer apart _Troubleshooting_. An imporatnte challenge in this job is that robotic sensors can detect boxes around all directions (from -180.0 degrees to 180.0 degrees). So you have to develop a python code first to know the type of token, to do this two functions def find_token_silver () and def find_token_golden have been defined in code, which are in order to find the silver token and golden token.
+
 Installing and running
+----------------------
 The simulator requires a Python 2.7 installation, the [pygame](http://pygame.org/) library, [PyPyBox2D](https://pypi.python.org/pypi/pypybox2d/2.1-r331), and [PyYAML](https://pypi.python.org/pypi/PyYAML/).
 
 Pygame, unfortunately, can be tricky (though [not impossible](http://askubuntu.com/q/312767)) to install in virtual environments. If you are using `pip`, you might try `pip install hg+https://bitbucket.org/pygame/pygame`, or you could use your operating system's package manager. Windows users could use [Portable Python](http://portablepython.com/). PyPyBox2D and PyYAML are more forgiving, and should install just fine using `pip` or `easy_install`.
