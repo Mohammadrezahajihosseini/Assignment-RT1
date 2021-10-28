@@ -1,13 +1,14 @@
-# Assignment-Research Track 1
-Python Robotics Simulator
+# Assignment-Research Track 1 (Python Robotics Simulator)
+
+Abstract 
 ================================
 
-This is a simple, portable robot simulator developed by [Student Robotics](https://studentrobotics.org).
-Some of the arenas and the exercises have been modified for the Research Track I course
+The concept of this assignment is to develop a Python-language code to simulate a robot circulating in a plant, in the meantime it has to pick up the silver tokens and put it behind it and if it encounters the golden tokens it has to avoid touching it and go back or change direction. According to this code, you have to understand how to use the medotics R. see (), R. grab (), R. release () and how to use find_token () to find out what kind of token is in front of robot.
 
-Installing and running
+Introduction
 ----------------------
-
+This python simulator was already programmed by *Harry Cutts
+Installing and running
 The simulator requires a Python 2.7 installation, the [pygame](http://pygame.org/) library, [PyPyBox2D](https://pypi.python.org/pypi/pypybox2d/2.1-r331), and [PyYAML](https://pypi.python.org/pypi/PyYAML/).
 
 Pygame, unfortunately, can be tricky (though [not impossible](http://askubuntu.com/q/312767)) to install in virtual environments. If you are using `pip`, you might try `pip install hg+https://bitbucket.org/pygame/pygame`, or you could use your operating system's package manager. Windows users could use [Portable Python](http://portablepython.com/). PyPyBox2D and PyYAML are more forgiving, and should install just fine using `pip` or `easy_install`.
