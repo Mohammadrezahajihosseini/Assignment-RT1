@@ -11,7 +11,7 @@ This python simulator was already programmed by _Harry Cutts_ in 2017, here is r
 
 Materials and Methods
 =========================
-Before compiling program you have to install it and running on the basic program explained in the part _Installing and running_ ,in case after installing there have been any problems before programming you can refer apart _Troubleshooting_. An imporatnte challenge in this job is that robotic sensors can detect boxes around all directions (from -180.0 degrees to 180.0 degrees). So you have to develop a python code first to know the type of token, to do this two functions def find_token_silver () and def find_token_golden have been defined in code, which are in order to find the silver token and golden token. Methods and conditions have been defined within each function, one of which is the R.see () method which is used within a for () loop. R is going to say Robot () if it sees a token. and with another method which is token.info.marker_type knows it type of token
+Before compiling program you have to install it and running on the basic program explained in the part _Installing and running_ ,in case after installing there have been any problems before programming you can refer apart _Troubleshooting_ and for program execution you can see part _Execution_. An imporatnte challenge in this job is that robotic sensors can detect boxes around all directions (from -180.0 degrees to 180.0 degrees). So you have to develop a python code first to know the type of token, to do this two functions __def find_token_silver()__ and __def find_token_golden()0__ have been defined in code, which are in order to find the silver token and golden token. Methods and conditions have been defined within each function, one of which is the __R.see()__ method which is used within a __for()__ loop. R is going to say Robot() if it sees a token. and with another method which is __token.info.marker_type__ knows it type of token. Consequently I defined in a __while__ loop conditions by chance to meet silver token or golden token which to understand better I did a flwochart, and if you encounter silver token you have to grab it with the __grab()__ method and release it in the back if with the __release()__ method and continue to run in the plan without touching golden token and find more silver tokens.
 
 Installing and running
 ----------------------
@@ -28,8 +28,7 @@ On Ubuntu, this can be accomplished by:
 * Get the location. In my case this was `/usr/local/lib/python2.7/dist-packages`
 * Create symlink: `ln -s path/to/simulator/sr/robot /usr/local/lib/python2.7/dist-packages/sr/`
 
-## Exercise
------------------------------
+## Execution
 
 To run one or more scripts in the simulator, use `run.py`, passing it the file names. 
 
@@ -48,5 +47,8 @@ You have also the solutions of the exercises (folder solutions)
 $ python run.py solutions/exercise1_solution.py
 ```
 
-Robot API
----------
+Results
+==============
+The results obtained are brought in the form of images to understand better.
+
+![Immagine](https://user-images.githubusercontent.com/80394968/139293917-306d8437-15b6-47ee-af65-8fac06ac4eec.png)
