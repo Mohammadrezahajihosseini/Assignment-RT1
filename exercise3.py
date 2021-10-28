@@ -117,21 +117,21 @@ while 1:
 	turn(-30,2)
     if -a_ths<= silver_rot_y <= a_ths: # if the robot is well aligned with the silver token, we go forward
         print("right way, go.")
-        drive(20, 0.1)
+        drive(10, 0.5)
     elif silver_rot_y <= -a_ths: # if the robot is not well aligned with the  silver token, we move it on the left or on the right
         print("Left a bit...")
-        turn(-20, 0.1)
+        turn(-25, 0.1)
     elif silver_rot_y >= a_ths:
         print("Right a bit...")
-        turn(+20, 0.1)         
+        turn(+25, 0.1)         
     if golden_rot_y >= d_thg:#if the robot is approaching from the sides to golden token we turn left or right
     	print ("I'm near to golden box a little right")
-    	turn(-10,0.1)
-    	drive(15,0.1)
+    	turn(-15,0.1)
+    	drive(10,0.1)
     elif golden_rot_y <= -d_thg+0.4: 
         print("I'm near to golden box a little left")
-        turn (10,0.1)
-        drive(15,0.1)
+        turn (15,0.1)
+        drive(10,0.1)
     elif -a_thg<= golden_rot_y <= a_thg: #if the robot is oriented towards the golden token, we go back
         print("Ah, So near to Golden Box!!!!")
         drive(-10, 0.5)
