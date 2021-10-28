@@ -11,7 +11,7 @@ This python simulator was already programmed by _Harry Cutts_ in 2017, here is r
 
 Materials and Methods
 =========================
-Before compiling program you have to install it and running on the basic program explained in the part _Installing and running_ ,in case after installing there have been any problems before programming you can refer apart _Troubleshooting_. An imporatnte challenge in this job is that robotic sensors can detect boxes around all directions (from -180.0 degrees to 180.0 degrees). So you have to develop a python code first to know the type of token, to do this two functions def find_token_silver () and def find_token_golden have been defined in code, which are in order to find the silver token and golden token.
+Before compiling program you have to install it and running on the basic program explained in the part _Installing and running_ ,in case after installing there have been any problems before programming you can refer apart _Troubleshooting_. An imporatnte challenge in this job is that robotic sensors can detect boxes around all directions (from -180.0 degrees to 180.0 degrees). So you have to develop a python code first to know the type of token, to do this two functions def find_token_silver () and def find_token_golden have been defined in code, which are in order to find the silver token and golden token. Methods and conditions have been defined within each function, one of which is the R.see () method which is used within a for () loop. R is going to say Robot () if it sees a token. and with another method which is token.info.marker_type knows it type of token
 
 Installing and running
 ----------------------
