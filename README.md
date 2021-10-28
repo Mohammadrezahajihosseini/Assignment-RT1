@@ -52,4 +52,4 @@ Results
 The results obtained are brought in the form of images to understand better.
 
 ![Immagine](https://user-images.githubusercontent.com/80394968/139293917-306d8437-15b6-47ee-af65-8fac06ac4eec.png)
-![Alt text](dvwvwbvwbwbb"Title")
+_Fig.1:_ Is demonstrated distance longitudinal and lateral that robot can know and control relative golden token not to go against.
