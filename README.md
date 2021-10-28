@@ -53,3 +53,13 @@ The results obtained are brought in the form of images to understand better.
 
 ![Immagine](https://user-images.githubusercontent.com/80394968/139293917-306d8437-15b6-47ee-af65-8fac06ac4eec.png)
 _Fig.1:_ Is demonstrated distance longitudinal and lateral that robot can know and control relative golden token not to go against.
+
+--------------------
+
+![2](https://user-images.githubusercontent.com/80394968/139299852-5d0e0d98-c3ee-4b0e-88d0-134f92392723.png)
+_Fig2:_ Check longitude and lateral distance from the center of the robot to find silver token
+
+--------------------
+
+![3](https://user-images.githubusercontent.com/80394968/139299885-8d42c584-e03d-4178-86c6-ea467b73d34f.png)
+_Fig3:_ Check angle with respect to silver token and orient it towards larger 
