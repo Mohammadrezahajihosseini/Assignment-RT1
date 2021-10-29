@@ -128,7 +128,7 @@ while 1:
     	print ("I'm near to golden box a little right")
     	turn(-15,0.1)
     	drive(10,0.1)
-    elif golden_rot_y <= -d_thg+0.4: 
+    elif golden_rot_y <= -d_thg: 
         print("I'm near to golden box a little left")
         turn (15,0.1)
         drive(10,0.1)
