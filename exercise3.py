@@ -83,7 +83,7 @@ def find_token_silver():#function to find silver tokens
     if silver_dist==100:
      return -1, -1
     else:
-     return silver_dist, silver_rot_y,
+     return silver_dist, silver_rot_y
 
 def find_token_golden():#function to find golden tokens:
 
@@ -95,7 +95,7 @@ def find_token_golden():#function to find golden tokens:
             golden_dist=token.dist
             golden_rot_y=token.rot_y
       
-    if silver_dist==100:
+    if golden_dist==100:
      return -1, -1
     else:
      return golden_dist, golden_rot_y
