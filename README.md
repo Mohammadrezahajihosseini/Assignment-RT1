@@ -29,6 +29,11 @@ The data was collected in two separate matrixes with the following names:
 ![image](https://user-images.githubusercontent.com/80394968/170829630-c5ee13db-9dd0-4210-b80f-d3adde3fcac4.png)
 ![image](https://user-images.githubusercontent.com/80394968/170829645-b27caffe-bc14-452f-a079-3443d5af484d.png)
 
+First analysis done on [Bar chart](https://it.mathworks.com/help/matlab/ref/bar.html). As you can see height of the blue bars are lower than the red ones, this means that _YOUR SOLUTION_ takes less time to complete the lap. Also there are significant lines that pass from the maximum value of each bar. Therefore, looking at the hypothesis, the red line must always be above the blue line in this case the fact occurs that the time it takes _YOUR SOLUTION_ less than _MY SOLUTION_, but in two points these lines cross and change places, i.e. blue goes above the red . Because in _My SOLUTION_ there have been two crash in trial 6° and 13° for this no time has been recorded. Therefore they are not important to note and hypothesis occurs.
+
+![image](https://user-images.githubusercontent.com/80394968/170829711-571d7449-8fe0-4698-9eec-f3d3207394b7.png)
+
+
 
 
 
