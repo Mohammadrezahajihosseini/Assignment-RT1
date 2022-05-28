@@ -45,6 +45,57 @@ Third analysis done and [Pie chart](https://it.mathworks.com/help/matlab/ref/pie
 
 ![image](https://user-images.githubusercontent.com/80394968/170830526-6418dfb7-4be7-4593-abd4-d57bbb552c0c.png)
 
+Media_1 =
+
+  195.4313
+
+
+Median_1 =
+
+  194.3900
+
+
+Std_1 =
+
+   17.3881
+
+
+Min_1 =
+
+  171.3000
+
+
+Max_1 =
+
+  241.5900
+
+
+Media_2 =
+
+  198.7877
+
+
+Median_2 =
+
+  199.6000
+
+
+Std_2 =
+
+   14.2053
+
+
+Min_2 =
+
+  172.0600
+
+
+Max_2 =
+
+  222.1200
+
+![image](https://user-images.githubusercontent.com/80394968/170830789-460ad082-9db2-419c-9837-dca0900e33eb.png)
+
 
 
 
