@@ -32,10 +32,14 @@ The data was collected in two separate matrixes with the following names:
 First analysis done on [Bar chart](https://it.mathworks.com/help/matlab/ref/bar.html). As you can see height of the blue bars are lower than the red ones, this means that _YOUR SOLUTION_ takes less time to complete the lap. Also there are significant lines that pass from the maximum value of each bar. Therefore, looking at the hypothesis, the red line must always be above the blue line in this case the fact occurs that the time it takes _YOUR SOLUTION_ less than _MY SOLUTION_, but in two points these lines cross and change places, i.e. blue goes above the red . Because in _MY SOLUTION_ there have been two crash in trial 6° and 13° for this no time has been recorded. Therefore they are not important to note and hypothesis occurs.
 
 ![image](https://user-images.githubusercontent.com/80394968/170829711-571d7449-8fe0-4698-9eec-f3d3207394b7.png)
+
 Separate view:
+
 ![image](https://user-images.githubusercontent.com/80394968/170830265-7499f386-f797-42fe-a0f5-6f44a7250bf1.png)
 
+According to the analysis done and [horizontal Bar chart](https://it.mathworks.com/help/matlab/ref/barh.html) to compare the number of times that robot choose the wrong way and had to change the way. Again, as you can see in the chart, the numbers regarding  _MY SOLUTION_  are greater than y _YOUR SOLUTION_ so for this reason robot takes more time to do a complete turn.
 
+![image](https://user-images.githubusercontent.com/80394968/170830314-9424f7f4-d92b-4430-a0d0-19249fb20c93.png)
 
 
 
