@@ -8,7 +8,7 @@ Statistical analysis between two solutions; _YOUR SOLUTION_ (created by Prof. Re
 Hypothesis
 ================================
 
-Assumption considered that _YOUR SOLUTION_ has less time than _MY SOLUTION_, but _MY SOLUTION_ has more accurate time compare to _YOUR SOLUTION_. The following hypotheses can be verified through various analyzes
+Assumption considered that _YOUR SOLUTION_ has less time than _MY SOLUTION_ to complete a lap in map, but _MY SOLUTION_ has more accurate time compare to _YOUR SOLUTION_. The following hypotheses can be verified through various analyzes
 
 Running 
 --------
