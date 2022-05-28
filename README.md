@@ -53,6 +53,11 @@ Fourth analysis done and plot Time and plot the maximum and minimum tolerance ba
 
 ![image](https://user-images.githubusercontent.com/80394968/170830789-460ad082-9db2-419c-9837-dca0900e33eb.png)
 
+last step do a T student Test with level of confidence Alpha = 0.05
+```  
+%hypothesis H0 : Time_1 > Time_2
+%hypothesis H1 : Time_1 < Time_2 
+```  
 
 
 
