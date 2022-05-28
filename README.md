@@ -49,7 +49,7 @@ For analysis the tolerance in the final time loop and to make <èT student test]
 
 ![image](https://user-images.githubusercontent.com/80394968/170831129-9b5f95d9-f3f0-48b4-bc03-c5df5c419323.png)
 
-Fourth analysis done and plot Time and plot the maximum and minimum tolerance band with standard deviation obtaining upper and lower standard deviation. In order to better understand more less how long it takes. As you can see in the plot below the area between two lines in the case of _MY SOLUTION_ is less than the area included in _YOUR SOLUTION_, this means that it takes Robot to make a complete turn in _MY SOLUTION_ more accurate than _YOUR SOLUTION_, that is mean my values are closer than yours. This fact can also be understood from std_1 and std_2 that std_2 __<__ std_1
+Fourth analysis done and plot Time and plot the maximum and minimum tolerance band with standard deviation obtaining upper and lower standard deviation. In order to better understand more less how long it takes. As you can see in the plot below the area between two lines in the case of _MY SOLUTION_ is less than the area included in _YOUR SOLUTION_, this means that it takes Robot to make a complete turn in _MY SOLUTION_ more accurate than _YOUR SOLUTION_, that is mean my values are closer than yours. This fact can also be understood from std_1 and std_2 that std_2 __<__ std_1.
 
 ![image](https://user-images.githubusercontent.com/80394968/170830789-460ad082-9db2-419c-9837-dca0900e33eb.png)
 
