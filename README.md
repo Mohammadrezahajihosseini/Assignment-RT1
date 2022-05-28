@@ -37,11 +37,11 @@ Separate view:
 
 ![image](https://user-images.githubusercontent.com/80394968/170830265-7499f386-f797-42fe-a0f5-6f44a7250bf1.png)
 
-According to the analysis done and [horizontal Bar chart](https://it.mathworks.com/help/matlab/ref/barh.html) to compare the number of times that robot choose the wrong way and had to change the way. Again, as you can see in the chart, the numbers regarding  _MY SOLUTION_  are greater than _YOUR SOLUTION_ so for this reason robot takes more time to do a complete turn.
+According to the analysis done on [horizontal Bar chart](https://it.mathworks.com/help/matlab/ref/barh.html) to compare the number of times that robot choose the wrong way and had to change the way. Again, as you can see in the chart, the numbers regarding  _MY SOLUTION_  are greater than _YOUR SOLUTION_ so for this reason robot takes more time to do a complete turn.
 
 ![image](https://user-images.githubusercontent.com/80394968/170830314-9424f7f4-d92b-4430-a0d0-19249fb20c93.png)
 
-Third analysis done is [Pie chart](https://it.mathworks.com/help/matlab/ref/pie.html) to understand percentage of success between the two programs. In _YOUR SOLUTION_ there were no cases of crash instead in _MY SOLUTION_ there were two crash.
+Third analysis done on [Pie chart](https://it.mathworks.com/help/matlab/ref/pie.html) to understand percentage of success between the two programs. In _YOUR SOLUTION_ there were no cases of crash instead in _MY SOLUTION_ there were two crash.
 
 ![image](https://user-images.githubusercontent.com/80394968/170830526-6418dfb7-4be7-4593-abd4-d57bbb552c0c.png)
 
@@ -49,7 +49,7 @@ For analysis the tolerance in the final time loop and to make [T student test](h
 
 ![image](https://user-images.githubusercontent.com/80394968/170831129-9b5f95d9-f3f0-48b4-bc03-c5df5c419323.png)
 
-Fourth analysis done and plot Time and plot the maximum and minimum tolerance band with standard deviation obtaining upper and lower standard deviation. In order to better understand more less how long it takes. As you can see in the plot below the area between two lines in the case of _MY SOLUTION_ is less than the area included in _YOUR SOLUTION_, this means that it takes Robot to make a complete turn in _MY SOLUTION_ more accurate than _YOUR SOLUTION_, that is mean my values are closer than yours. This fact can also be understood from std_1 and std_2 that std_2 __<__ std_1.
+Fourth analysis done on plot Time and plot the maximum and minimum tolerance band with standard deviation obtaining upper and lower standard deviation. In order to better understand more less how long it takes. As you can see in the plot below the area between two lines in the case of _MY SOLUTION_ is less than the area included in _YOUR SOLUTION_, this means that it takes Robot to make a complete turn in _MY SOLUTION_ more accurate than _YOUR SOLUTION_, that is mean my values are closer than yours. This fact can also be understood from std_1 and std_2 that std_2 __<__ std_1.
 
 ![image](https://user-images.githubusercontent.com/80394968/170830789-460ad082-9db2-419c-9837-dca0900e33eb.png)
 
