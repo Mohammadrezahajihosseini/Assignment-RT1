@@ -41,6 +41,10 @@ According to the analysis done and [horizontal Bar chart](https://it.mathworks.c
 
 ![image](https://user-images.githubusercontent.com/80394968/170830314-9424f7f4-d92b-4430-a0d0-19249fb20c93.png)
 
+Third analysis done and [Pie chart](https://it.mathworks.com/help/matlab/ref/pie.html) to understand percentage of success between the two programs. In _YOUR SOLUTION_ there were no cases of crash instead in _MY SOLUTION_ there were two crash.
+
+![image](https://user-images.githubusercontent.com/80394968/170830526-6418dfb7-4be7-4593-abd4-d57bbb552c0c.png)
+
 
 
 
